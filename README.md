@@ -22,7 +22,7 @@ The app is configurable via the Pebble smartphone app. Options include:
 Example watchfaces in various states:
 
 [![Screenshot showing normal, "first run" state (time is 21:06)](https://s3.amazonaws.com/pebble.rexmac.com/pingchrong/screenshot1.png)](https://s3.amazonaws.com/pebble.rexmac.com/pingchrong/screenshot1.png)
-[![Screenshot showing inverted colors (time is 17:38)](https://s3.amazonaws.com/pebble.rexmac.com/pingchrong/screenshot1.png)](https://s3.amazonaws.com/pebble.rexmac.com/pingchrong/screenshot2.png)
+[![Screenshot showing inverted colors (time is 17:38)](https://s3.amazonaws.com/pebble.rexmac.com/pingchrong/screenshot2.png)](https://s3.amazonaws.com/pebble.rexmac.com/pingchrong/screenshot2.png)
 
 ### [Download](http://github.com/rexmac/pebble-pingchrong/releases)
 
