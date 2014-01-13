@@ -1,0 +1,24 @@
+{
+  "uuid": "ec7e236a-7ec4-44b3-8c7e-53cd49c2aefa",
+  "shortName": "PingChrong",
+  "longName": "PingChrong",
+  "companyName": "Rex McConnell (rex@rexmac.com)",
+  "versionCode": 1,
+  "versionLabel": "2.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "capabilities": ["configurable"],
+  "appKeys": {
+    "12hTime": 0,
+    "inverted": 1
+  },
+  "resources": {
+    "media": [{
+      "menuIcon": true,
+      "type": "png",
+      "name": "IMAGE_MENU_ICON",
+      "file": "images/menu_icon.png"
+    }]
+  }
+}
