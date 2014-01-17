@@ -14,8 +14,8 @@ the current score of their game is also the current time of day! Coincidence?
 ### Configuration
 
 The app is configurable via the Pebble smartphone app. Options include:
-  - 12-hour time mode - Displays time using 12H format rather than 24H format.
-  - Inverted colors - black text on white screen rather than white text on black screen
+  * 12-hour time mode - Displays time using 12H format rather than 24H format.
+  * Inverted colors - black text on white screen rather than white text on black screen
 
 ### Screenshots
 
