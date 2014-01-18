@@ -4,12 +4,13 @@
 
 _The Pebble Firmware v2.0  is still in BETA and has not been officialy released. Use AT YOUR OWN RISK. Please [see this post](http://www.reddit.com/r/pebble/comments/1ttwv2/should_i_update_my_pebble_to_20/) for more information._
 
-Watchface app for the Pebble Smartwatch that displays a game of ping-pong
-between two AI opponents. Each opponent's score is displayed at the top of the
-screen. Although they play 24/7, the AI players are quite good. So good, in
-fact, that the player on the right only misses 24 times a day. The player on
-the left is not quite as good and misses the ball 60 times an hour. As a result,
-the current score of their game is also the current time of day! Coincidence?
+## Description
+
+Displays a game of ping-pong between two AI opponents. The score is shown at the top of the screen. Although they play 24/7, the AI players are quite good. So good in fact, that the player on the right only misses 24 times a day. The player on the left is not quite as good and misses 60 times an hour. As a result, the current score of their game is also the current time of day! Coincidence?
+
+### Extended Description
+
+Watchface app for the Pebble Smartwatch that displays a game of ping-pong between two AI opponents. Each opponent's score is displayed at the top of the screen. Although they play 24/7, the AI players are quite good. So good, in fact, that the player on the right only misses 24 times a day. The player on the left is not quite as good and misses the ball 60 times an hour. As a result, the current score of their game is also the current time of day! Coincidence?
 
 ### Configuration
 
